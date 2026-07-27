@@ -1,6 +1,6 @@
 {
-  "name": "Shabnam Children English School",
-  "description": "Official Website for Shabnam Children English School, Ghosi, Mau, Uttar Pradesh. A School With Difference. Est. 1992.",
+  "name": "Shabnam School",
+  "description": "Shabnam School – Quality Education for a Better Future.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
