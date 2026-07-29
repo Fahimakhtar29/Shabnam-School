@@ -1,0 +1,16 @@
+{
+  "name": "Shabnam Children English School",
+  "short_name": "Shabnam School",
+  "description": "Shabnam Children English School, Ghosi, Mau – Quality CBSE Education for a Better Future.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0B6B3A",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

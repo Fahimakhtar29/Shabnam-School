@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { SchoolProvider } from './context/SchoolContext';
 import { Header } from './components/Header';
 import { HeroSlider } from './components/HeroSlider';
@@ -26,6 +26,10 @@ import { SearchModal } from './components/SearchModal';
 import { FloatingControls } from './components/FloatingControls';
 
 export default function App() {
+  useEffect(() => {
+    document.title = "Shabnam Children English School";
+  }, []);
+
   return (
     <SchoolProvider>
       <div className="min-h-screen bg-white text-slate-900 font-sans selection:bg-[#0B6B3A] selection:text-amber-300">
